@@ -1,0 +1,22 @@
+{
+    "Settings": {
+        "UnwantedCreatures": {
+            "Creature": [
+                {
+                    "Name": "Biter_02",
+                    "SpawnConfiguration": {
+                        "CanSpawn": "true",
+                        "SpawnChanceOutOf100": "50"
+                    }
+                },
+                {
+                    "Name": "PEEper",
+                    "SpawnConfiguration": {
+                        "CanSpawn": "false",
+                        "SpawnChanceOutOf100": "100"
+                    }
+                }
+            ]
+        }
+    }
+}
